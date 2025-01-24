@@ -1,3 +1,9 @@
+/**
+Nolan Tibbles
+PE 1
+This is the header file for my point class. It defines the initilization of a point,
+ways that the point can be manipulated, and the distance between two points.
+*/
 #pragma once
 
 class Point {

@@ -1,3 +1,10 @@
+/**
+Nolan Tibbles
+PE 1
+This is main is built to test the functionalites of my Point class.
+It does this by calling methods of the class and printing the response
+to the console to validate the results.
+*/
 #include <iostream>
 #include <vector>
 #include "Point.h"
